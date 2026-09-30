@@ -24,12 +24,18 @@
     <ClCompile Include="MarkMCP.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="McpServer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="httplib.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="MarkMCP.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="McpServer.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="json.hpp">

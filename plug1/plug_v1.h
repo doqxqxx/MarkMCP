@@ -1,8 +1,8 @@
-#pragma once
+ï»¿#pragma once
 
-/* ÃèÊö: Ìí¼ÓË®Ó¡ */
-/* StartAddress:	Ë®Ó¡ÆğÊ¼µØÖ· */
-/* EndAddress:		Ë®Ó¡½áÊøµØÖ· */
-/* ·µ»ØÖµ: ÊÇ·ñÌí¼Ó³É¹¦; false:Ìí¼ÓÊ§°Ü! */
+/* æè¿°: æ·»åŠ æ°´å° */
+/* StartAddress:	æ°´å°èµ·å§‹åœ°å€ */
+/* EndAddress:		æ°´å°ç»“æŸåœ°å€ */
+/* è¿”å›å€¼: æ˜¯å¦æ·»åŠ æˆåŠŸ; false:æ·»åŠ å¤±è´¥! */
 typedef bool (*pfn_AddMarks)(size_t StartAddress, size_t EndAddress);
 
